@@ -1,4 +1,4 @@
-# Agni.Dev
+# Agni.Solutions
 
 We empower organizations to build responsible AI solutions.
 
